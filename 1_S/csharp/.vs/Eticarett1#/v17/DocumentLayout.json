@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_1_S\\odev 1#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61DA652C-B25C-4A07-B1BE-C3AAA28E7221}|Eticarett1#\\Eticarett1#.csproj|e:\\flash1\\1. d\u00F6nem\\yaz\u0131l\u0131m tasar\u0131m\u0131 ve mimarisi\\lab\\5_1_s\\odev 1#\\eticarett1#\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DA652C-B25C-4A07-B1BE-C3AAA28E7221}|Eticarett1#\\Eticarett1#.csproj|solutionrelative:eticarett1#\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DA652C-B25C-4A07-B1BE-C3AAA28E7221}|Eticarett1#\\Eticarett1#.csproj|e:\\flash1\\1. d\u00F6nem\\yaz\u0131l\u0131m tasar\u0131m\u0131 ve mimarisi\\lab\\5_1_s\\odev 1#\\eticarett1#\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DA652C-B25C-4A07-B1BE-C3AAA28E7221}|Eticarett1#\\Eticarett1#.csproj|solutionrelative:eticarett1#\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_1_S\\odev 1#\\Eticarett1#\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Eticarett1#\\Kullanici.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_1_S\\odev 1#\\Eticarett1#\\Kullanici.cs",
+              "RelativeToolTip": "Eticarett1#\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:46:21.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_1_S\\odev 1#\\Eticarett1#\\Adres.cs",
+              "RelativeDocumentMoniker": "Eticarett1#\\Adres.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_1_S\\odev 1#\\Eticarett1#\\Adres.cs",
+              "RelativeToolTip": "Eticarett1#\\Adres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:45:54.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

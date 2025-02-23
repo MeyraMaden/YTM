@@ -1,0 +1,45 @@
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.exe
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.deps.json
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.runtimeconfig.json
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.runtimeconfig.dev.json
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.dll
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.pdb
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.AssemblyInfoInputs.cache
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.AssemblyInfo.cs
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.dll
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\refint\Eticarett1#.dll
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.pdb
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.genruntimeconfig.cache
+C:\Users\SEMA\source\repos\Eticarett1#\Eticarett1#\obj\Debug\net5.0\ref\Eticarett1#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.exe
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.deps.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.runtimeconfig.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.runtimeconfig.dev.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.pdb
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.AssemblyInfoInputs.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.AssemblyInfo.cs
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\refint\Eticarett1#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.pdb
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.genruntimeconfig.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 1#\Eticarett1#\obj\Debug\net5.0\ref\Eticarett1#.dll
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.exe
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.deps.json
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.runtimeconfig.json
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.runtimeconfig.dev.json
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.dll
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\bin\Debug\net5.0\Eticarett1#.pdb
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.AssemblyInfoInputs.cache
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.AssemblyInfo.cs
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.csproj.CoreCompileInputs.cache
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.dll
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\refint\Eticarett1#.dll
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.pdb
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\Eticarett1#.genruntimeconfig.cache
+D:\Users\DesktopPC\Desktop\odev 1#\Eticarett1#\obj\Debug\net5.0\ref\Eticarett1#.dll
