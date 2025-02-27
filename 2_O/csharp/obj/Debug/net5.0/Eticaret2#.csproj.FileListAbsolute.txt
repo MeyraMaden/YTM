@@ -1,0 +1,48 @@
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\bin\Debug\net5.0\Eticaret2#.exe
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\bin\Debug\net5.0\Eticaret2#.deps.json
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\bin\Debug\net5.0\Eticaret2#.runtimeconfig.json
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\bin\Debug\net5.0\Eticaret2#.runtimeconfig.dev.json
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\bin\Debug\net5.0\Eticaret2#.dll
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\bin\Debug\net5.0\Eticaret2#.pdb
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.AssemblyInfoInputs.cache
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.AssemblyInfo.cs
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.dll
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\refint\Eticaret2#.dll
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.pdb
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.genruntimeconfig.cache
+C:\Users\SEMA\source\repos\Eticaret2#\Eticaret2#\obj\Debug\net5.0\ref\Eticaret2#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.exe
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.deps.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.runtimeconfig.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.runtimeconfig.dev.json
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.pdb
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.AssemblyInfoInputs.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.AssemblyInfo.cs
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.csproj.CoreCompileInputs.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\refint\Eticaret2#.dll
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.pdb
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.genruntimeconfig.cache
+C:\Users\SEMA\OneDrive - Karadeniz Teknik Üniversitesi\Masaüstü\odev 2\Eticaret2#\obj\Debug\net5.0\ref\Eticaret2#.dll
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.exe
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.deps.json
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.runtimeconfig.json
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.runtimeconfig.dev.json
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.dll
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\bin\Debug\net5.0\Eticaret2#.pdb
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.AssemblyInfoInputs.cache
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.AssemblyInfo.cs
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.csproj.CoreCompileInputs.cache
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.dll
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\refint\Eticaret2#.dll
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.pdb
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\Eticaret2#.genruntimeconfig.cache
+D:\Users\DesktopPC\Desktop\odev 2\Eticaret2#\obj\Debug\net5.0\ref\Eticaret2#.dll
+E:\flash1\1. dönem\Yazılım Tasarımı ve Mimarisi\Lab\5_2_O\odev 2 c#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.dll
+E:\flash1\1. dönem\Yazılım Tasarımı ve Mimarisi\Lab\5_2_O\odev 2 c#\Eticaret2#\obj\Debug\net5.0\refint\Eticaret2#.dll
+E:\flash1\1. dönem\Yazılım Tasarımı ve Mimarisi\Lab\5_2_O\odev 2 c#\Eticaret2#\obj\Debug\net5.0\Eticaret2#.pdb

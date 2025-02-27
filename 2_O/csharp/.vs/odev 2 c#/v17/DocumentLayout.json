@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eticaret2#\\Siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\StandartKullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eticaret2#\\StandartKullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eticaret2#\\Urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eticaret2#\\Kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eticaret2#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\PremiumKullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eticaret2#\\PremiumKullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Siparis.cs",
+              "RelativeDocumentMoniker": "Eticaret2#\\Siparis.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Siparis.cs",
+              "RelativeToolTip": "Eticaret2#\\Siparis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:37:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Urun.cs",
+              "RelativeDocumentMoniker": "Eticaret2#\\Urun.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Urun.cs",
+              "RelativeToolTip": "Eticaret2#\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:37:04.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandartKullanici.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\StandartKullanici.cs",
+              "RelativeDocumentMoniker": "Eticaret2#\\StandartKullanici.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\StandartKullanici.cs",
+              "RelativeToolTip": "Eticaret2#\\StandartKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:36:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Program.cs",
+              "RelativeDocumentMoniker": "Eticaret2#\\Program.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Program.cs",
+              "RelativeToolTip": "Eticaret2#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:36:48.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremiumKullanici.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\PremiumKullanici.cs",
+              "RelativeDocumentMoniker": "Eticaret2#\\PremiumKullanici.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\PremiumKullanici.cs",
+              "RelativeToolTip": "Eticaret2#\\PremiumKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:36:32.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Eticaret2#\\Kullanici.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\5_2_O\\odev 2 c#\\Eticaret2#\\Kullanici.cs",
+              "RelativeToolTip": "Eticaret2#\\Kullanici.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:35:51.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
