@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Haber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Haber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Bildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bildirim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\csharp haber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:csharp haber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "csharp haber.csproj",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\csharp haber.csproj",
+              "RelativeDocumentMoniker": "csharp haber.csproj",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\csharp haber.csproj",
+              "RelativeToolTip": "csharp haber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T17:31:58.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:30:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Kullanici.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Kullanici.cs",
+              "RelativeToolTip": "Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:30:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Mail.cs",
+              "RelativeDocumentMoniker": "Mail.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Mail.cs",
+              "RelativeToolTip": "Mail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:30:16.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Haber.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Haber.cs",
+              "RelativeDocumentMoniker": "Haber.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Haber.cs",
+              "RelativeToolTip": "Haber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:30:15.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Iletisim.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Iletisim.cs",
+              "RelativeDocumentMoniker": "Iletisim.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Iletisim.cs",
+              "RelativeToolTip": "Iletisim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:29:51.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bildirim.cs",
+              "DocumentMoniker": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Bildirim.cs",
+              "RelativeDocumentMoniker": "Bildirim.cs",
+              "ToolTip": "E:\\flash1\\1. d\u00F6nem\\Yaz\u0131l\u0131m Tasar\u0131m\u0131 ve Mimarisi\\Lab\\7___D\\csharp haber\\Bildirim.cs",
+              "RelativeToolTip": "Bildirim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:29:19.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
